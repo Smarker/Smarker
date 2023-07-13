@@ -6,10 +6,10 @@ I'm a full-stack developer specialized in ml ops currently living in Arlington, 
   <img align="left" alt="Stephanie's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/steph_marker">
-  <img align="left" alt="Stephanie | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Stephanie | Threads" width="22px" src="https://cdn.simpleicons.org/threads" />
 </a>
 <a href="https://www.linkedin.com/in/stephaniemarker/">
-  <img align="left" alt="Stephanie's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Stephanie's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <br />
