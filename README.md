@@ -5,7 +5,7 @@ I'm a full-stack developer specialized in ml ops currently living in Arlington, 
 <a href="https://www.instagram.com/stephaniemarker/">
   <img align="left" alt="Stephanie's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/steph_marker">
+<a href="https://www.threads.net/@stephaniemarker">
   <img align="left" alt="Stephanie | Threads" width="22px" src="https://cdn.simpleicons.org/threads" />
 </a>
 <a href="https://www.linkedin.com/in/stephaniemarker/">
