@@ -1,6 +1,6 @@
 ### Hi, I'm Stephanie 👋
 
-I'm a full-stack developer specialized in ml ops currently living in Salem, NH.
+I'm a full-stack developer currently living in Salem, NH.
  
 <a href="https://www.instagram.com/stephaniemarker/">
   <img align="left" alt="Stephanie's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
@@ -8,9 +8,8 @@ I'm a full-stack developer specialized in ml ops currently living in Salem, NH.
 <a href="https://www.threads.net/@stephaniemarker">
   <img align="left" alt="Stephanie | Threads" width="22px" src="https://cdn.simpleicons.org/threads" />
 </a>
-<a href="https://www.linkedin.com/in/stephaniemarker/">
-  <img align="left" alt="Stephanie's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
+
+[LinkedIn](https://www.linkedin.com/in/stephaniemarker/)
 
 <br />
 
@@ -18,8 +17,8 @@ I'm a full-stack developer specialized in ml ops currently living in Salem, NH.
 
 <p>
 
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=Amazon AWS&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=Microsoft Azure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=Microsoft%20Azure&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-097969?style=flat-square&logo=python&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
